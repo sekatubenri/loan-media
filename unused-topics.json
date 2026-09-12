@@ -1,10 +1,5 @@
 [
   {
-    "title": "カードローンの利息計算方法",
-    "category": "cardloan",
-    "filename": "cardloan-risoku.json"
-  },
-  {
     "title": "カードローンの返済方法と繰り上げ返済",
     "category": "cardloan",
     "filename": "cardloan-hensai.json"
