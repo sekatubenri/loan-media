@@ -1,10 +1,5 @@
 [
   {
-    "title": "銀行カードローンの限度額と目安",
-    "category": "bank",
-    "filename": "bank-cardloan-gendo.json"
-  },
-  {
     "title": "住宅ローン利用者の銀行カードローン",
     "category": "bank",
     "filename": "jutaku-loan-cardloan.json"
