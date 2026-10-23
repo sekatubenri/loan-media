@@ -3,7 +3,7 @@ import Script from 'next/script'
 import './globals.css'
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://loan-select.com'),
+  metadataBase: new URL('https://loan-select.jp'),
   title: {
     default: 'カードローン比較ナビ｜金利・審査・即日融資の徹底比較',
     template: '%s｜カードローン比較ナビ',

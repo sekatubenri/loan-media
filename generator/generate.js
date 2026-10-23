@@ -6,7 +6,7 @@ const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
 
 const SITE = {
   name: 'カードローン比較ナビ',
-  url: 'https://loan-select.com',
+  url: 'https://loan-select.jp',
 };
 
 const AFFILIATE_TOP = `
